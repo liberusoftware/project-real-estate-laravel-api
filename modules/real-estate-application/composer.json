@@ -1,0 +1,54 @@
+{
+    "name": "liberusoftware/real-estate-application",
+    "description": "Real estate panels, dashboards, onboarding, integration settings, and database bootstrap.",
+    "type": "liberu-module",
+    "license": "MIT",
+    "version": "1.0.0",
+    "require": {
+        "php": "^8.5",
+        "laravel/framework": "^13.0",
+        "liberusoftware/module-manager": "^1.0",
+        "liberusoftware/users-roles": "^1.0",
+        "laravel/fortify": "^1.0",
+        "laravel/jetstream": "^5.0",
+        "laravel/sanctum": "^4.0",
+        "bursteri/socialstream": "^7.0",
+        "spatie/laravel-activitylog": "^5.0",
+        "liberusoftware/identity-core": "^1.0",
+        "liberusoftware/identity-socialstream": "^1.0",
+        "liberusoftware/observability": "^1.0",
+        "liberusoftware/organizations-teams": "^1.0",
+        "liberusoftware/roles-permissions": "^1.0",
+        "liberusoftware/search": "^1.0",
+        "liberusoftware/settings": "^1.0",
+        "liberusoftware/real-estate-lettings": "^1.0",
+        "liberusoftware/real-estate-properties": "^1.0",
+        "liberusoftware/real-estate-property-management": "^1.0",
+        "liberusoftware/real-estate-viewings": "^1.0",
+        "liberusoftware/real-estate-listings": "^1.0",
+        "liberusoftware/real-estate-offers": "^1.0",
+        "liberusoftware/application": "^1.0",
+        "liberusoftware/localization-core": "^1.0",
+        "liberusoftware/real-estate-core": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Liberu\\RealEstate\\Application\\": "src/"
+        }
+    },
+    "extra": {
+        "liberu": {
+            "name": "real-estate-application"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "require-dev": {
+        "liberusoftware/package-testbench": "^1.5",
+        "pestphp/pest": "^5.3.3"
+    },
+    "suggest": {}
+}

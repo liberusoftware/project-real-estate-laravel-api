@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-11-14T19:26:30.995421+00:00",
+  "source_revision": "09bd8234a5ac8b49d920839b4f574134ee93289b",
+  "checks": {
+    "composer_validate": true,
+    "php_syntax_and_api_boundary": true,
+    "locked_dependencies_exclude_filament_livewire": true,
+    "platform_requirements": true,
+    "dependency_install": true,
+    "package_discovery": true,
+    "api_route_registration": true,
+    "health_endpoint_200": true,
+    "unauthenticated_api_user_401": true
+  },
+  "scope": "Host composition and smoke checks. Full domain workflows, migrations against production databases and individual frontend integrations have not been acceptance-tested."
+}

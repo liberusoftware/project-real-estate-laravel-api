@@ -1,0 +1,2365 @@
+{
+  "source_repository": "liberusoftware/project-real-estate-laravel-filament",
+  "source_revision": "09bd8234a5ac8b49d920839b4f574134ee93289b",
+  "retained": [
+    {
+      "path": "modules/activity-comments",
+      "package": "liberusoftware/activity-comments",
+      "version": "1.4.2",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/activity-comments-api",
+      "package": "liberusoftware/activity-comments-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/analytics-core",
+      "package": "liberusoftware/analytics-core",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/analytics-core-api",
+      "package": "liberusoftware/analytics-core-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/analytics-google",
+      "package": "liberusoftware/analytics-google",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/analytics-google-api",
+      "package": "liberusoftware/analytics-google-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/analytics-meta",
+      "package": "liberusoftware/analytics-meta",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/analytics-meta-api",
+      "package": "liberusoftware/analytics-meta-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/api-access",
+      "package": "liberusoftware/api-access",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/api-access-api",
+      "package": "liberusoftware/api-access-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/application",
+      "package": "liberusoftware/application",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/application-api",
+      "package": "liberusoftware/application-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/audit",
+      "package": "liberusoftware/audit",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/audit-api",
+      "package": "liberusoftware/audit-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/currency-context",
+      "package": "liberusoftware/currency-context",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/currency-context-api",
+      "package": "liberusoftware/currency-context-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/developer-experience",
+      "package": "liberusoftware/developer-experience",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/developer-experience-api",
+      "package": "liberusoftware/developer-experience-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/feature-flags",
+      "package": "liberusoftware/feature-flags",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/feature-flags-api",
+      "package": "liberusoftware/feature-flags-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/files-media",
+      "package": "liberusoftware/files-media",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/files-media-api",
+      "package": "liberusoftware/files-media-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/identity-core",
+      "package": "liberusoftware/identity-core",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/identity-core-api",
+      "package": "liberusoftware/identity-core-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/identity-socialstream",
+      "package": "liberusoftware/identity-socialstream",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/import-export",
+      "package": "liberusoftware/import-export",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/import-export-api",
+      "package": "liberusoftware/import-export-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/integrations",
+      "package": "liberusoftware/integrations",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/integrations-api",
+      "package": "liberusoftware/integrations-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/jetstream-bridge",
+      "package": "liberusoftware/jetstream-bridge",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/jetstream-bridge-api",
+      "package": "liberusoftware/jetstream-bridge-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/localization-core",
+      "package": "liberusoftware/localization-core",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/localization-core-api",
+      "package": "liberusoftware/localization-core-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/localization-mymemory",
+      "package": "liberusoftware/localization-mymemory",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/module-manager-api",
+      "package": "liberusoftware/module-manager-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/notifications",
+      "package": "liberusoftware/notifications",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/notifications-api",
+      "package": "liberusoftware/notifications-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/observability",
+      "package": "liberusoftware/observability",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/observability-api",
+      "package": "liberusoftware/observability-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/organizations-teams",
+      "package": "liberusoftware/organizations-teams",
+      "version": "1.5.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/organizations-teams-api",
+      "package": "liberusoftware/organizations-teams-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/profiles",
+      "package": "liberusoftware/profiles",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/profiles-api",
+      "package": "liberusoftware/profiles-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-application",
+      "package": "liberusoftware/real-estate-application",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-core",
+      "package": "liberusoftware/real-estate-core",
+      "version": "1.0.2",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-core-api",
+      "package": "liberusoftware/real-estate-core-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-instructions",
+      "package": "liberusoftware/real-estate-instructions",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-instructions-api",
+      "package": "liberusoftware/real-estate-instructions-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-leads",
+      "package": "liberusoftware/real-estate-leads",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-lettings",
+      "package": "liberusoftware/real-estate-lettings",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-lettings-api",
+      "package": "liberusoftware/real-estate-lettings-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-listings",
+      "package": "liberusoftware/real-estate-listings",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-listings-api",
+      "package": "liberusoftware/real-estate-listings-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-marketing",
+      "package": "liberusoftware/real-estate-marketing",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-marketing-api",
+      "package": "liberusoftware/real-estate-marketing-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-matching",
+      "package": "liberusoftware/real-estate-matching",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-matching-api",
+      "package": "liberusoftware/real-estate-matching-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-media-and-documents",
+      "package": "liberusoftware/real-estate-media-and-documents",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-media-and-documents-api",
+      "package": "liberusoftware/real-estate-media-and-documents-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-offers",
+      "package": "liberusoftware/real-estate-offers",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-offers-api",
+      "package": "liberusoftware/real-estate-offers-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-onthemarket",
+      "package": "liberusoftware/real-estate-onthemarket",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-onthemarket-api",
+      "package": "liberusoftware/real-estate-onthemarket-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-parties",
+      "package": "liberusoftware/real-estate-parties",
+      "version": "1.0.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-parties-api",
+      "package": "liberusoftware/real-estate-parties-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-portals-reporting",
+      "package": "liberusoftware/real-estate-portals-reporting",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-portals-reporting-api",
+      "package": "liberusoftware/real-estate-portals-reporting-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-properties",
+      "package": "liberusoftware/real-estate-properties",
+      "version": "1.0.3",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-properties-api",
+      "package": "liberusoftware/real-estate-properties-api",
+      "version": "1.0.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-property-management",
+      "package": "liberusoftware/real-estate-property-management",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-property-management-api",
+      "package": "liberusoftware/real-estate-property-management-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-rightmove",
+      "package": "liberusoftware/real-estate-rightmove",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-rightmove-api",
+      "package": "liberusoftware/real-estate-rightmove-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-sales-progression",
+      "package": "liberusoftware/real-estate-sales-progression",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-sales-progression-api",
+      "package": "liberusoftware/real-estate-sales-progression-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-valuations",
+      "package": "liberusoftware/real-estate-valuations",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-valuations-api",
+      "package": "liberusoftware/real-estate-valuations-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-viewings",
+      "package": "liberusoftware/real-estate-viewings",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-viewings-api",
+      "package": "liberusoftware/real-estate-viewings-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-vr-design",
+      "package": "liberusoftware/real-estate-vr-design",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-vr-design-api",
+      "package": "liberusoftware/real-estate-vr-design-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-zoopla",
+      "package": "liberusoftware/real-estate-zoopla",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/real-estate-zoopla-api",
+      "package": "liberusoftware/real-estate-zoopla-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/roles-permissions",
+      "package": "liberusoftware/roles-permissions",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/roles-permissions-api",
+      "package": "liberusoftware/roles-permissions-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/scheduler-queues",
+      "package": "liberusoftware/scheduler-queues",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/scheduler-queues-api",
+      "package": "liberusoftware/scheduler-queues-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/search",
+      "package": "liberusoftware/search",
+      "version": "1.5.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/search-api",
+      "package": "liberusoftware/search-api",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/sessions-devices",
+      "package": "liberusoftware/sessions-devices",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/sessions-devices-api",
+      "package": "liberusoftware/sessions-devices-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/settings",
+      "package": "liberusoftware/settings",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/settings-api",
+      "package": "liberusoftware/settings-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/tenancy",
+      "package": "liberusoftware/tenancy",
+      "version": "1.2.2",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/two-factor-authentication",
+      "package": "liberusoftware/two-factor-authentication",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/two-factor-authentication-api",
+      "package": "liberusoftware/two-factor-authentication-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/users-roles",
+      "package": "liberusoftware/users-roles",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/webhooks",
+      "package": "liberusoftware/webhooks",
+      "version": "1.4.1",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    },
+    {
+      "path": "modules/webhooks-api",
+      "package": "liberusoftware/webhooks-api",
+      "version": "1.0.0",
+      "source_sha": "09bd8234a5ac8b49d920839b4f574134ee93289b"
+    }
+  ],
+  "excluded": [
+    {
+      "path": "modules/activity-comments-filament",
+      "package": "liberusoftware/activity-comments-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/activity-comments-livewire",
+      "package": "liberusoftware/activity-comments-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/analytics-core-filament",
+      "package": "liberusoftware/analytics-core-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/analytics-core-livewire",
+      "package": "liberusoftware/analytics-core-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/analytics-google-filament",
+      "package": "liberusoftware/analytics-google-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/analytics-google-livewire",
+      "package": "liberusoftware/analytics-google-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/analytics-meta-filament",
+      "package": "liberusoftware/analytics-meta-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/analytics-meta-livewire",
+      "package": "liberusoftware/analytics-meta-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/api-access-filament",
+      "package": "liberusoftware/api-access-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/api-access-livewire",
+      "package": "liberusoftware/api-access-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/application-filament",
+      "package": "liberusoftware/application-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/application-livewire",
+      "package": "liberusoftware/application-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/audit-filament",
+      "package": "liberusoftware/audit-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/audit-livewire",
+      "package": "liberusoftware/audit-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/currency-context-filament",
+      "package": "liberusoftware/currency-context-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/currency-context-livewire",
+      "package": "liberusoftware/currency-context-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/developer-experience-filament",
+      "package": "liberusoftware/developer-experience-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/developer-experience-livewire",
+      "package": "liberusoftware/developer-experience-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/feature-flags-filament",
+      "package": "liberusoftware/feature-flags-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/feature-flags-livewire",
+      "package": "liberusoftware/feature-flags-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/filament-clusters-contracts",
+      "package": "liberusoftware/filament-clusters-contracts",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/files-media-filament",
+      "package": "liberusoftware/files-media-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/files-media-livewire",
+      "package": "liberusoftware/files-media-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/identity-core-filament",
+      "package": "liberusoftware/identity-core-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/identity-core-livewire",
+      "package": "liberusoftware/identity-core-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/import-export-filament",
+      "package": "liberusoftware/import-export-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/import-export-livewire",
+      "package": "liberusoftware/import-export-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/integrations-filament",
+      "package": "liberusoftware/integrations-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/integrations-livewire",
+      "package": "liberusoftware/integrations-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/jetstream-bridge-filament",
+      "package": "liberusoftware/jetstream-bridge-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/jetstream-bridge-livewire",
+      "package": "liberusoftware/jetstream-bridge-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/localization-core-filament",
+      "package": "liberusoftware/localization-core-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/localization-core-livewire",
+      "package": "liberusoftware/localization-core-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-manager-livewire",
+      "package": "liberusoftware/module-manager-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/notifications-filament",
+      "package": "liberusoftware/notifications-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/notifications-livewire",
+      "package": "liberusoftware/notifications-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/observability-filament",
+      "package": "liberusoftware/observability-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/observability-livewire",
+      "package": "liberusoftware/observability-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/organizations-teams-filament",
+      "package": "liberusoftware/organizations-teams-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/organizations-teams-livewire",
+      "package": "liberusoftware/organizations-teams-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/profiles-filament",
+      "package": "liberusoftware/profiles-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/profiles-livewire",
+      "package": "liberusoftware/profiles-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-core-filament",
+      "package": "liberusoftware/real-estate-core-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-core-livewire",
+      "package": "liberusoftware/real-estate-core-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-instructions-filament",
+      "package": "liberusoftware/real-estate-instructions-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-instructions-livewire",
+      "package": "liberusoftware/real-estate-instructions-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-leads-filament",
+      "package": "liberusoftware/real-estate-leads-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-lettings-filament",
+      "package": "liberusoftware/real-estate-lettings-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-lettings-livewire",
+      "package": "liberusoftware/real-estate-lettings-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-listings-filament",
+      "package": "liberusoftware/real-estate-listings-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-listings-livewire",
+      "package": "liberusoftware/real-estate-listings-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-marketing-filament",
+      "package": "liberusoftware/real-estate-marketing-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-marketing-livewire",
+      "package": "liberusoftware/real-estate-marketing-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-matching-filament",
+      "package": "liberusoftware/real-estate-matching-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-matching-livewire",
+      "package": "liberusoftware/real-estate-matching-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-media-and-documents-filament",
+      "package": "liberusoftware/real-estate-media-and-documents-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-media-and-documents-livewire",
+      "package": "liberusoftware/real-estate-media-and-documents-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-offers-filament",
+      "package": "liberusoftware/real-estate-offers-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-offers-livewire",
+      "package": "liberusoftware/real-estate-offers-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-onthemarket-filament",
+      "package": "liberusoftware/real-estate-onthemarket-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-onthemarket-livewire",
+      "package": "liberusoftware/real-estate-onthemarket-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-parties-filament",
+      "package": "liberusoftware/real-estate-parties-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-parties-livewire",
+      "package": "liberusoftware/real-estate-parties-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-portals-reporting-filament",
+      "package": "liberusoftware/real-estate-portals-reporting-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-portals-reporting-livewire",
+      "package": "liberusoftware/real-estate-portals-reporting-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-properties-filament",
+      "package": "liberusoftware/real-estate-properties-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-properties-livewire",
+      "package": "liberusoftware/real-estate-properties-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-property-management-filament",
+      "package": "liberusoftware/real-estate-property-management-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-property-management-livewire",
+      "package": "liberusoftware/real-estate-property-management-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-rightmove-filament",
+      "package": "liberusoftware/real-estate-rightmove-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-rightmove-livewire",
+      "package": "liberusoftware/real-estate-rightmove-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-sales-progression-filament",
+      "package": "liberusoftware/real-estate-sales-progression-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-sales-progression-livewire",
+      "package": "liberusoftware/real-estate-sales-progression-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-valuations-filament",
+      "package": "liberusoftware/real-estate-valuations-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-valuations-livewire",
+      "package": "liberusoftware/real-estate-valuations-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-viewings-filament",
+      "package": "liberusoftware/real-estate-viewings-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-viewings-livewire",
+      "package": "liberusoftware/real-estate-viewings-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-vr-design-livewire",
+      "package": "liberusoftware/real-estate-vr-design-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-zoopla-filament",
+      "package": "liberusoftware/real-estate-zoopla-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/real-estate-zoopla-livewire",
+      "package": "liberusoftware/real-estate-zoopla-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/roles-permissions-filament",
+      "package": "liberusoftware/roles-permissions-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/roles-permissions-livewire",
+      "package": "liberusoftware/roles-permissions-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/scheduler-queues-filament",
+      "package": "liberusoftware/scheduler-queues-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/scheduler-queues-livewire",
+      "package": "liberusoftware/scheduler-queues-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/search-filament",
+      "package": "liberusoftware/search-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/search-livewire",
+      "package": "liberusoftware/search-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/sessions-devices-filament",
+      "package": "liberusoftware/sessions-devices-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/sessions-devices-livewire",
+      "package": "liberusoftware/sessions-devices-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/settings-filament",
+      "package": "liberusoftware/settings-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/settings-livewire",
+      "package": "liberusoftware/settings-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/theme-support",
+      "package": "liberusoftware/theme-support",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/theme-support-livewire",
+      "package": "liberusoftware/theme-support-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/two-factor-authentication-filament",
+      "package": "liberusoftware/two-factor-authentication-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/two-factor-authentication-livewire",
+      "package": "liberusoftware/two-factor-authentication-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/webhooks-filament",
+      "package": "liberusoftware/webhooks-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/webhooks-livewire",
+      "package": "liberusoftware/webhooks-livewire",
+      "reason": "presentation adapter or web host"
+    }
+  ],
+  "policy": "Domain and API modules only. Embedded panel adapters removed; tenancy uses explicit scoped TenantState rather than Filament tenant resolution. Local Composer path packages are authoritative. Pulse dashboard dependency and UI-specific views, routes, scaffolds, tests and hooks are excluded. Jetstream models and Socialstream OAuth contracts are retained without panels.",
+  "adaptations": [
+    {
+      "path": "modules/activity-comments/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/activity-comments/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/activity-comments/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/activity-comments/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/activity-comments-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/activity-comments-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-core/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-core/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-core/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-core/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-core/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-core-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-core-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-google/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-google/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-google/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-google/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-google/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-google-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-google-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-meta/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-meta/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-meta/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-meta/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-meta/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-meta-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-meta-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/api-access/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/api-access/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/api-access/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/api-access/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/api-access/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/api-access-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/api-access-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/application/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/application/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/application/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/application/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/application/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/application-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/application-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/audit/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/audit/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/audit/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/audit/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/audit/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/audit-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/audit-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/currency-context/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/currency-context/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/currency-context/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/currency-context/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/currency-context/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/currency-context-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/currency-context-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/developer-experience/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/developer-experience/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/developer-experience/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/developer-experience/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/developer-experience/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/developer-experience-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/developer-experience-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/feature-flags/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/feature-flags/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/feature-flags/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/feature-flags/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/feature-flags/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/feature-flags-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/feature-flags-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/files-media/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/files-media/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/files-media/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/files-media/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/files-media/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/files-media-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/files-media-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/identity-core/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/identity-core/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/identity-core/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-core/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-core/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-core-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/identity-core-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/identity-socialstream/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/identity-socialstream/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/identity-socialstream/routes/web.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-socialstream/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-socialstream/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-socialstream/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-socialstream/src/Providers/SocialstreamServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/import-export/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/import-export/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/import-export/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/import-export/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/import-export/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/import-export-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/import-export-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/integrations/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/integrations/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/integrations/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/integrations/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/integrations/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/integrations-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/integrations-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/jetstream-bridge/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/jetstream-bridge/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/jetstream-bridge/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/jetstream-bridge/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/jetstream-bridge/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/jetstream-bridge-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/jetstream-bridge-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/localization-core/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/localization-core/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/localization-core/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/localization-core/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/localization-core/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/localization-core-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/localization-core-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/localization-mymemory/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/localization-mymemory/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/localization-mymemory/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/localization-mymemory/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/localization-mymemory/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/module-manager-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-manager-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/notifications/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/notifications/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/notifications/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/notifications/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/notifications/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/notifications-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/notifications-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/observability/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/observability/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/observability/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/observability/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/observability/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/observability/database/migrations/2026_06_29_124052_create_pulse_tables.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/observability-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/observability-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/organizations-teams/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/organizations-teams/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/organizations-teams/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/organizations-teams/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/organizations-teams/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/organizations-teams-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/organizations-teams-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/profiles/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/profiles/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/profiles/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/profiles/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/profiles/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/profiles-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/profiles-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-application/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-application/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-application/src/RealEstateApplicationServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-application/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/resources/views/app/pages/account-setup-wizard.blade.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/resources/views/app/pages/personal-setup-wizard.blade.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/resources/views/app/pages/setup-review.blade.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/resources/views/app/pages/setup-submit.blade.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/resources/views/app/widgets/role-welcome.blade.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Filament/ModulePlugins.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Models/User.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Support/ThemeColors.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Database/Seeders/RealEstateRolesSeeder.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Database/Seeders/RolesSeeder.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Database/Seeders/SignupRolesSeeder.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Database/Seeders/UserSeeder.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Filament/Pages/Dashboard.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Filament/Pages/InstallationSetupWizard.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Filament/Widgets/AdminOverviewWidget.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Filament/App/Pages/AccountSetupWizard.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Filament/App/Pages/Dashboard.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Filament/App/Pages/PersonalSetupWizard.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Filament/App/Widgets/RoleStatsWidget.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Filament/App/Widgets/RoleWelcomeWidget.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Http/Middleware/ApplyTeamIntegrationSettings.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Http/Middleware/ConfigureFilamentNavigationGroups.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Providers/Filament/AdminPanelProvider.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Providers/Filament/AppPanelProvider.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-application/src/Providers/Filament/NavigationGroups.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-core/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-core/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-core-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-core-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-instructions/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-instructions/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-instructions-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-instructions-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-leads/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-leads/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-lettings/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-lettings/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-lettings-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-lettings-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-listings/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-listings/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-listings-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-listings-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-marketing/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-marketing/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-marketing-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-marketing-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-matching/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-matching/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-matching-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-matching-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-media-and-documents/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-media-and-documents/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-media-and-documents-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-media-and-documents-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-offers/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-offers-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-offers-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-onthemarket/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-onthemarket/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-onthemarket-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-onthemarket-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-parties/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-parties/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-parties-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-parties-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-portals-reporting/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-portals-reporting/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-portals-reporting-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-portals-reporting-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-properties/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-properties/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-properties-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-property-management/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-property-management/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-property-management-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-property-management-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-rightmove/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-rightmove/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-rightmove-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-rightmove-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-sales-progression/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-sales-progression/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-sales-progression-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-sales-progression-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-valuations/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-valuations/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-valuations-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-valuations-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-viewings/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-viewings/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-viewings/resources/views/emails/viewing-feedback-requested.blade.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/real-estate-viewings-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-vr-design/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-vr-design/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-vr-design-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-vr-design-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-zoopla/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-zoopla/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-zoopla-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/real-estate-zoopla-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/roles-permissions/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/roles-permissions/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/roles-permissions/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/roles-permissions/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/roles-permissions/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/roles-permissions-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/roles-permissions-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/scheduler-queues/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/scheduler-queues/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/scheduler-queues/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/scheduler-queues/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/scheduler-queues/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/scheduler-queues-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/scheduler-queues-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/search/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/search/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/search/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/search/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/search-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/search-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/search-api/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/search-api/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/search-api/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/sessions-devices/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/sessions-devices/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/sessions-devices/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/sessions-devices/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/sessions-devices/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/sessions-devices-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/sessions-devices-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/settings/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/settings/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/settings/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/settings/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/settings/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/settings-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/settings-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/tenancy/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/tenancy/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/tenancy/src/TenantContext.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/tenancy/src/Listeners/SwitchTeam.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/two-factor-authentication/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/two-factor-authentication/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/two-factor-authentication/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/two-factor-authentication/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/two-factor-authentication/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/two-factor-authentication-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/two-factor-authentication-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/users-roles/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/users-roles/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/users-roles/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/users-roles/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/webhooks/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/webhooks/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/webhooks/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/webhooks/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/webhooks/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/webhooks-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/webhooks-api/module.json",
+      "change": "adapted"
+    }
+  ]
+}

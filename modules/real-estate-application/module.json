@@ -1,0 +1,42 @@
+{
+    "name": "real-estate-application",
+    "display_name": "Real Estate Application",
+    "description": "Real estate panels, dashboards, onboarding, integration settings, and database bootstrap.",
+    "version": "1.0.0",
+    "category": "product",
+    "provider": "Liberu\\RealEstate\\Application\\RealEstateApplicationServiceProvider",
+    "requires": {
+        "php": "^8.5",
+        "laravel": "^13.0",
+        "packages": {
+            "liberusoftware/module-manager": "^1.0",
+            "liberusoftware/users-roles": "^1.0",
+            "liberusoftware/identity-core": "^1.0",
+            "liberusoftware/identity-socialstream": "^1.0",
+            "liberusoftware/observability": "^1.0",
+            "liberusoftware/organizations-teams": "^1.0",
+            "liberusoftware/roles-permissions": "^1.0",
+            "liberusoftware/search": "^1.0",
+            "liberusoftware/settings": "^1.0",
+            "liberusoftware/real-estate-lettings": "^1.0",
+            "liberusoftware/real-estate-properties": "^1.0",
+            "liberusoftware/real-estate-property-management": "^1.0",
+            "liberusoftware/real-estate-viewings": "^1.0",
+            "liberusoftware/real-estate-listings": "^1.0",
+            "liberusoftware/real-estate-offers": "^1.0",
+            "liberusoftware/application": "^1.0",
+            "liberusoftware/localization-core": "^1.0",
+            "liberusoftware/real-estate-core": "^1.0"
+        }
+    },
+    "default_enabled": true,
+    "capabilities": [
+        "real-estate.application"
+    ],
+    "features": [
+        "Real estate panel composition",
+        "Role dashboards and onboarding",
+        "Database bootstrap"
+    ],
+    "suggests": {}
+}

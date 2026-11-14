@@ -1,0 +1,18 @@
+name: API source checks
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  source:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.5'
+          tools: composer:v2
+          extensions: bcmath, curl, dom, fileinfo, gd, intl, mbstring, pdo_sqlite, simplexml, xml, zip
+      - run: composer validate --no-check-publish --no-check-lock
+      - run: php scripts/check-api-boundary.php
+      - run: composer install --no-dev --no-interaction --prefer-dist --no-progress
+      - run: php scripts/smoke-api.php
